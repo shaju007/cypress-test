@@ -1,0 +1,22 @@
+{
+  "name": "cypress-test",
+  "version": "1.0.0",
+  "description": "Cypress test",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaju007/cypress-test.git"
+  },
+  "author": "Shohidur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shaju007/cypress-test/issues"
+  },
+  "homepage": "https://github.com/shaju007/cypress-test#readme",
+  "devDependencies": {
+    "cypress": "^9.1.0"
+  }
+}
